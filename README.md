@@ -4,9 +4,9 @@
 
  ## How works?
 
-   - [×] Write your task..
-   - [×] Complete your task..
-   - [×] When you are done, click your task :upside_down_face:
+   -  Write your task..
+   -  Complete your task..
+   -  When you are done, click your task :upside_down_face:
    img
  ### **Ooops :open_mouth: You write your task wrong ?** 
 
@@ -14,6 +14,6 @@
 :thumbsup:
 
 For more projects you can visit my 
-[<img src="images/GİTHUB.png" width="50px" height = "35px" style = "border-radius:20px" >](https://github.com/BelginEfe) profile
+[<img src="images/github.png" width="50px" height = "35px" style = "border-radius:20px" >](https://github.com/BelginEfe) profile
 
 
