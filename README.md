@@ -10,7 +10,7 @@
    img
  ### **Ooops :open_mouth: You write your task wrong ?** 
 
- Don't worry :relaxed: Just click the "×" Button and it' gone :+1:
+ Don't worry :relaxed: Just click the "×" Button and it's gone :+1:
 :thumbsup:
 
 For more projects you can visit my 
